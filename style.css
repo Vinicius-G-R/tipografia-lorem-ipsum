@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat:wght@400;900&display=swap');
+
+body{
+    background-color: #F2EDDC;
+    font-size: 18px;
+}
+
+h1, h2, h4 {
+    color: #3D5938;
+}
+
+h3 {
+    color: #F2811D;
+}
+
+
+/*
+#3D5938
+#778C4A
+#F2EDDC
+#F2BC79
+#F2811D 
+*/
